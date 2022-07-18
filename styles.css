@@ -1,0 +1,27 @@
+body {
+  padding-top: 20px;
+  background-image: url("/images/background-box.png");
+}
+.header h1 {
+  text-align: center;
+  text-shadow: 2px 1px #fff;
+  font-style: italic;
+}
+h1 small {
+  font-size: 20px;
+}
+.signature {
+  font-style: italic;
+}
+a.list-title {
+  color: #000;
+  font-weight: bold;
+}
+a
+{
+  text-decoration: none;
+  color: #e93fb6;
+}
+a:hover {
+  color:#423fe9
+}
