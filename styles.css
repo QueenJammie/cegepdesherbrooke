@@ -1,6 +1,6 @@
 body {
   padding-top: 20px;
-  background-image: url("/images/background-box.png");
+  background-color: rgb(251, 255, 214);
 }
 .header h1 {
   text-align: center;
@@ -9,6 +9,9 @@ body {
 }
 h1 small {
   font-size: 20px;
+}
+h3 small {
+  font-size: 15px;
 }
 .signature {
   font-style: italic;
@@ -23,5 +26,21 @@ a
   color: #e93fb6;
 }
 a:hover {
-  color:#423fe9
+  color:#423fe9;
+}
+.no-list {
+  list-style: none;
+}
+.htmlNotes
+{
+  color: #000;
+  font-weight: bold;
+}
+.htmlNotes:hover
+{
+  cursor: pointer;
+}
+.course-code
+{
+  font-size: 20px;
 }
